@@ -1,1 +1,1 @@
-DETECTION3D
+some cmds about pull and push for git
